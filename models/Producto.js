@@ -24,5 +24,4 @@ const ProductosSchema = mongoose.Schema({
 
 module.exports = mongoose.model('Producto', ProductosSchema);
 
-user = vendedores
 
